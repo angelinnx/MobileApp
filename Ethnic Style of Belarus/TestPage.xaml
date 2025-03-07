@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ethnic_Style_of_Belarus.TestPage"
+             BackgroundImageSource="fon6.jpg">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Image x:Name="QuestionImage" HeightRequest="200" Grid.Row="1" />
+
+            <Label x:Name="MessageLabel"
+                   FontSize="25"
+                   TextColor="Black"
+                   FontAttributes="Bold"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"
+                   Margin="10"/>
+
+            <StackLayout Grid.Row="2" Padding="5">
+                <Button x:Name="Answer1" Text="Вариант 1" Command="{Binding AnswerCommand}" CommandParameter="1" WidthRequest="170" />
+                <Button x:Name="Answer2" Text="Вариант 2" Command="{Binding AnswerCommand}" CommandParameter="2" WidthRequest="170" />
+                <Button x:Name="Answer3" Text="Вариант 3" Command="{Binding AnswerCommand}" CommandParameter="3" WidthRequest="170" />
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ethnic_Style_of_Belarus.WardrobePage"
+             BackgroundImageSource="fon4.jpg">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <StackLayout Padding="20" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Grid.Row="1">
+
+                <Image x:Name="wardrobeImage" 
+                   Aspect="AspectFit" 
+                   HeightRequest="250" 
+                   HorizontalOptions="Center" />
+
+                <Frame BorderColor="#B22222"  
+                   HasShadow="True" 
+                   Padding="10" 
+                   CornerRadius="20" 
+                   BackgroundColor="White">
+                    <StackLayout>
+                        <Label x:Name="imageDescription" 
+                           FontSize="16" 
+                           TextColor="Black" 
+                           HorizontalTextAlignment="Center" 
+                           LineBreakMode="WordWrap" />
+                    </StackLayout>
+                </Frame>
+
+                <Grid RowSpacing="0" ColumnSpacing="20">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Button x:Name="previousButton" 
+                        Text="Вярнуць" 
+                        Clicked="OnPreviousClicked" 
+                        BackgroundColor="#B22222" 
+                        TextColor="White" 
+                        FontSize="14"
+                        CornerRadius="10" 
+                        HeightRequest="50"
+                        WidthRequest="80"
+                        Grid.Row="0" 
+                        Grid.Column="0" />
+
+                    <Button x:Name="nextImgButton" 
+                        Text="Глядзець" 
+                        Clicked="NextClicked" 
+                        BackgroundColor="#B22222" 
+                        TextColor="White" 
+                        FontSize="14"
+                        CornerRadius="10" 
+                        HeightRequest="50"
+                        WidthRequest="80"
+                        Grid.Row="0" 
+                        Grid.Column="1" />
+                </Grid>
+
+                <Button x:Name="nextButton" 
+                    Text="Далей" 
+                    Clicked="OnNextClicked" 
+                    BackgroundColor="green" 
+                    TextColor="White"  
+                    FontSize="18"
+                    CornerRadius="10" 
+                    HeightRequest="50"
+                    IsVisible="False" />
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

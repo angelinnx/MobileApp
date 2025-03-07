@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ethnic_Style_of_Belarus.ClothingRoomPage"
+             BackgroundImageSource="fon3.jpg">
+    <Grid Padding="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Frame Grid.Row="0" 
+               BorderColor="Red" 
+               BackgroundColor="White" 
+               Padding="10"
+               CornerRadius="5">
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Знайдзіце і збярыце ў кошык усе страчаныя элементы беларускага касцюма, а таксама азнаёмцеся з імі." 
+                           FontSize="16" 
+                           TextColor="Black" 
+                       HorizontalOptions="StartAndExpand" 
+                       VerticalOptions="Center"/>
+                <Image x:Name="basketImage" Source="basket_full.png" WidthRequest="100" HeightRequest="100" HorizontalOptions="End" VerticalOptions="Center" />
+            </StackLayout>
+        </Frame>
+
+        <Grid Grid.Row="1" Padding="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Image Source="spadnica.png" 
+                   Grid.Row="1" 
+                   Grid.ColumnSpan="1"  
+                   WidthRequest="100" 
+                   HeightRequest="100"  
+                   HorizontalOptions="Center"  
+                   VerticalOptions="Start">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnObjectTapped"/>
+                </Image.GestureRecognizers>
+            </Image>
+
+            <Image Source="bryl.png" 
+                   Grid.Row="1" 
+                   Grid.Column="3" 
+                   WidthRequest="100"  
+                   HeightRequest="100" 
+                   HorizontalOptions="Center"   
+                   VerticalOptions="Center">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnObjectTapped"/>
+                </Image.GestureRecognizers>
+            </Image>
+
+            <Image Source="lylka.png" 
+                   Grid.Row="7"  
+                   Grid.ColumnSpan="6"
+                   WidthRequest="150" 
+                   HeightRequest="150" 
+                   HorizontalOptions="Center"  
+                   VerticalOptions="End">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnObjectTapped"/>
+                </Image.GestureRecognizers>
+            </Image>
+
+            <Image Source="poys.png" 
+                   Grid.Row="5"  
+                   Grid.ColumnSpan="5"
+                   WidthRequest="150" 
+                   HeightRequest="150" 
+                   HorizontalOptions="Center"  
+                   VerticalOptions="Center">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnObjectTapped"/>
+                </Image.GestureRecognizers>
+            </Image>
+
+            <Image Source="busy.png" 
+                   Grid.Row="4"  
+                   Grid.ColumnSpan="1"
+                   WidthRequest="150" 
+                   HeightRequest="150" 
+                   HorizontalOptions="Start"  
+                   VerticalOptions="Center">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnObjectTapped"/>
+                </Image.GestureRecognizers>
+            </Image>
+
+            <Image Source="sarochka.png" 
+                   Grid.Row="2"  
+                   Grid.ColumnSpan="4"
+                   WidthRequest="150" 
+                   HeightRequest="150" 
+                   HorizontalOptions="Center"  
+                   VerticalOptions="Center">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnObjectTapped"/>
+                </Image.GestureRecognizers>
+            </Image>
+
+            <Image Source="venok.png" 
+                   Grid.Row="4"  
+                   Grid.ColumnSpan="6"
+                   WidthRequest="150" 
+                   HeightRequest="150" 
+                   HorizontalOptions="End"  
+                   VerticalOptions="Center">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnObjectTapped"/>
+                </Image.GestureRecognizers>
+            </Image>
+            <Image Source="boy.png" 
+                   Grid.Row="6"  
+                   Grid.ColumnSpan="6"
+                   WidthRequest="150" 
+                   HeightRequest="150" 
+                   HorizontalOptions="End"  
+                   VerticalOptions="End">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnObjectTapped"/>
+                </Image.GestureRecognizers>
+            </Image>
+
+            <Image Source="boty.png" 
+                   Grid.Row="7"  
+                   Grid.ColumnSpan="1"
+                   WidthRequest="150" 
+                   HeightRequest="150" 
+                   HorizontalOptions="Start"  
+                   VerticalOptions="End">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnObjectTapped"/>
+                </Image.GestureRecognizers>
+            </Image>
+        </Grid>
+    </Grid>
+</ContentPage>

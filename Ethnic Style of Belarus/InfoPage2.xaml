@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ethnic_Style_of_Belarus.InfoPage2"
+             BackgroundImageSource="fon2.jpg">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <StackLayout Padding="20" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Grid.Row="1">
+                <Image Source="girl.png"
+                       Aspect="AspectFit" 
+                       HeightRequest="250" 
+                       HorizontalOptions="Center" />
+                <Frame BorderColor="#B22222"  
+                       HasShadow="True" 
+                       Padding="10" 
+                       CornerRadius="20" 
+                       BackgroundColor="White">
+                    <StackLayout>
+                        <Label x:Name="infoLabel"
+                               FontSize="16"
+                               TextColor="Black"
+                               LineBreakMode="WordWrap"
+                               HorizontalTextAlignment="Center" />
+                    </StackLayout>
+                </Frame>
+                <Button x:Name="nextButton" 
+                        Text="Далей" 
+                        Clicked="OnNextClicked" 
+                        BackgroundColor="#B22222" 
+                        TextColor="White" 
+                        FontSize="18"
+                        CornerRadius="10" 
+                        HeightRequest="50" />
+
+                <Button x:Name="GoToWardrobeButton" 
+                        Text="Прайсці ў гардэроб" 
+                        IsVisible="False" 
+                        Clicked="OnGoToWardrobeClicked" 
+                        BackgroundColor="#B22222" 
+                        TextColor="White" 
+                        FontSize="18"
+                        CornerRadius="10" 
+                        HeightRequest="50" />
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,88 @@
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.csproj.AssemblyReference.cache
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.GeneratedMSBuildEditorConfig.editorconfig
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\ClothingRoomPage.xaml.g.cs
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\InfoPage.xaml.g.cs
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\InfoPage2.xaml.g.cs
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\InfoPage3.xaml.g.cs
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\OrnamentPage.xaml.g.cs
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\TestPage.xaml.g.cs
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\WardrobePage.xaml.g.cs
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.AssemblyInfoInputs.cache
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.AssemblyInfo.cs
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.csproj.CoreCompileInputs.cache
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\bin\Debug\netstandard2.0\Ethnic Style of Belarus.deps.json
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\bin\Debug\netstandard2.0\Ethnic Style of Belarus.dll
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\bin\Debug\netstandard2.0\ref\Ethnic Style of Belarus.dll
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\bin\Debug\netstandard2.0\Ethnic Style of Belarus.pdb
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\XamlC.stamp
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.dll
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\refint\Ethnic Style of Belarus.dll
+D:\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.pdb
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\bin\Debug\netstandard2.0\Ethnic Style of Belarus.deps.json
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\bin\Debug\netstandard2.0\Ethnic Style of Belarus.dll
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\bin\Debug\netstandard2.0\ref\Ethnic Style of Belarus.dll
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\bin\Debug\netstandard2.0\Ethnic Style of Belarus.pdb
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\ClothingRoomPage.xaml.g.cs
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\InfoPage.xaml.g.cs
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\InfoPage2.xaml.g.cs
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\InfoPage3.xaml.g.cs
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\OrnamentPage.xaml.g.cs
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\TestPage.xaml.g.cs
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\WardrobePage.xaml.g.cs
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.AssemblyInfo.cs
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.dll
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\refint\Ethnic Style of Belarus.dll
+C:\Users\root\Desktop\конкурс\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.pdb
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\bin\Debug\netstandard2.0\Ethnic Style of Belarus.deps.json
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\bin\Debug\netstandard2.0\Ethnic Style of Belarus.dll
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\bin\Debug\netstandard2.0\ref\Ethnic Style of Belarus.dll
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\bin\Debug\netstandard2.0\Ethnic Style of Belarus.pdb
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\ClothingRoomPage.xaml.g.cs
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\InfoPage.xaml.g.cs
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\InfoPage2.xaml.g.cs
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\InfoPage3.xaml.g.cs
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\OrnamentPage.xaml.g.cs
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\TestPage.xaml.g.cs
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\WardrobePage.xaml.g.cs
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.AssemblyInfo.cs
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.dll
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\refint\Ethnic Style of Belarus.dll
+C:\Users\root\Desktop\konkurs\App\Ethnic Style of Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.pdb
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\bin\Debug\netstandard2.0\Ethnic Style of Belarus.deps.json
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\bin\Debug\netstandard2.0\Ethnic Style of Belarus.dll
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\bin\Debug\netstandard2.0\ref\Ethnic Style of Belarus.dll
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\bin\Debug\netstandard2.0\Ethnic Style of Belarus.pdb
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\ClothingRoomPage.xaml.g.cs
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\InfoPage.xaml.g.cs
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\InfoPage2.xaml.g.cs
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\InfoPage3.xaml.g.cs
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\OrnamentPage.xaml.g.cs
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\TestPage.xaml.g.cs
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\WardrobePage.xaml.g.cs
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.AssemblyInfo.cs
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.dll
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\refint\Ethnic Style of Belarus.dll
+C:\Users\root\Desktop\konkurs\App\Ethnic_Style_of_Belarus\Ethnic Style of Belarus\Ethnic Style of Belarus\obj\Debug\netstandard2.0\Ethnic Style of Belarus.pdb

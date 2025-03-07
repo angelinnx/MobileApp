@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ethnic_Style_of_Belarus.MainPage"
+             BackgroundImageSource="fon1.jpg">
+    <StackLayout Padding="20"
+                 VerticalOptions="Center" 
+                 HorizontalOptions="Center" 
+                 WidthRequest="200">
+        <Label Text="Калі ласка, увядзіце ваша імя:" FontSize="Medium" HorizontalOptions="Center" TextColor="Black"/>
+        <Entry x:Name="NameEntry" Placeholder="Імя" WidthRequest="100" TextColor="Black" BackgroundColor="#FF6666"/>
+        <Button Text="Далей" Clicked="OnNextClicked" HorizontalOptions="Center" BackgroundColor="#B22222" />
+    </StackLayout>
+</ContentPage>
+
