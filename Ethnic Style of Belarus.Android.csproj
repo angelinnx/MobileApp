@@ -1,0 +1,544 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D24062C6-7AEE-492E-8693-4080A1DD20AB}</ProjectGuid>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TemplateGuid>{c9e5eea5-ca05-42a1-839b-61506e0a37df}</TemplateGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Ethnic_Style_of_Belarus.Droid</RootNamespace>
+    <AssemblyName>Ethnic Style of Belarus.Android</AssemblyName>
+    <Deterministic>True</Deterministic>
+    <AndroidApplication>True</AndroidApplication>
+    <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
+    <AndroidResgenClass>Resource</AndroidResgenClass>
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
+    <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
+    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
+    <TargetFrameworkVersion>v13.0</TargetFrameworkVersion>
+    <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
+    <AndroidUseAapt2>true</AndroidUseAapt2>
+    <AndroidHttpClientHandlerType>Xamarin.Android.Net.AndroidClientHandler</AndroidHttpClientHandlerType>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>portable</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidLinkMode>None</AndroidLinkMode>
+    <EmbedAssembliesIntoApk>false</EmbedAssembliesIntoApk>
+    <AotAssemblies>false</AotAssemblies>
+    <EnableLLVM>false</EnableLLVM>
+    <AndroidEnableProfiledAot>false</AndroidEnableProfiledAot>
+    <BundleAssemblies>false</BundleAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>portable</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidManagedSymbols>true</AndroidManagedSymbols>
+    <EmbedAssembliesIntoApk>true</EmbedAssembliesIntoApk>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Mono.Android" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Xam.Plugin.SimpleAudioPlayer">
+      <Version>1.6.0</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MainActivity.cs" />
+    <Compile Include="Resources\Resource.designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Assets\AboutAssets.txt" />
+    <None Include="Properties\AndroidManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\values\styles.xml" />
+    <AndroidResource Include="Resources\values\colors.xml" />
+    <AndroidResource Include="Resources\mipmap-anydpi-v26\icon.xml" />
+    <AndroidResource Include="Resources\mipmap-anydpi-v26\icon_round.xml" />
+    <AndroidResource Include="Resources\mipmap-hdpi\icon.png" />
+    <AndroidResource Include="Resources\mipmap-hdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\mipmap-mdpi\icon.png" />
+    <AndroidResource Include="Resources\mipmap-mdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\mipmap-xhdpi\icon.png" />
+    <AndroidResource Include="Resources\mipmap-xhdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\mipmap-xxhdpi\icon.png" />
+    <AndroidResource Include="Resources\mipmap-xxhdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
+    <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Ethnic Style of Belarus\Ethnic Style of Belarus.csproj">
+      <Project>{1E1BA2F7-7ECE-4C70-8E90-A2A047EA0F83}</Project>
+      <Name>Ethnic Style of Belarus</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\anargi.png" />
+    <AndroidResource Include="Resources\drawable\baba.png" />
+    <AndroidResource Include="Resources\drawable\bagate.png" />
+    <AndroidResource Include="Resources\drawable\basket_full.png" />
+    <AndroidResource Include="Resources\drawable\boty.png" />
+    <AndroidResource Include="Resources\drawable\boy.png" />
+    <AndroidResource Include="Resources\drawable\bryl.png" />
+    <AndroidResource Include="Resources\drawable\busy.png" />
+    <AndroidResource Include="Resources\drawable\clear.png" />
+    <AndroidResource Include="Resources\drawable\dysha.png" />
+    <AndroidResource Include="Resources\drawable\family.png" />
+    <AndroidResource Include="Resources\drawable\fire.png" />
+    <AndroidResource Include="Resources\drawable\fon1.jpg" />
+    <AndroidResource Include="Resources\drawable\fon2.jpg" />
+    <AndroidResource Include="Resources\drawable\fon3.jpg" />
+    <AndroidResource Include="Resources\drawable\fon4.jpg" />
+    <AndroidResource Include="Resources\drawable\fon5.jpg" />
+    <AndroidResource Include="Resources\drawable\fon6.jpg" />
+    <AndroidResource Include="Resources\drawable\girl.png" />
+    <AndroidResource Include="Resources\drawable\ground.png" />
+    <AndroidResource Include="Resources\drawable\hleb.png" />
+    <AndroidResource Include="Resources\drawable\icon.png" />
+    <AndroidResource Include="Resources\drawable\kashuly1.png" />
+    <AndroidResource Include="Resources\drawable\kashuly10.png" />
+    <AndroidResource Include="Resources\drawable\kashuly2.png" />
+    <AndroidResource Include="Resources\drawable\kashuly3.png" />
+    <AndroidResource Include="Resources\drawable\kashuly4.png" />
+    <AndroidResource Include="Resources\drawable\kashuly5.png" />
+    <AndroidResource Include="Resources\drawable\kashuly6.png" />
+    <AndroidResource Include="Resources\drawable\kashuly7.png" />
+    <AndroidResource Include="Resources\drawable\kashuly8.png" />
+    <AndroidResource Include="Resources\drawable\kashuly9.png" />
+    <AndroidResource Include="Resources\drawable\life.png" />
+    <AndroidResource Include="Resources\drawable\love.png" />
+    <AndroidResource Include="Resources\drawable\loveb.png" />
+    <AndroidResource Include="Resources\drawable\lovep.png" />
+    <AndroidResource Include="Resources\drawable\lylka.png" />
+    <AndroidResource Include="Resources\drawable\maladost.png" />
+    <AndroidResource Include="Resources\drawable\nasanne.png" />
+    <AndroidResource Include="Resources\drawable\person.png" />
+    <AndroidResource Include="Resources\drawable\poys.png" />
+    <AndroidResource Include="Resources\drawable\praca.png" />
+    <AndroidResource Include="Resources\drawable\priroda.png" />
+    <AndroidResource Include="Resources\drawable\prodki.png" />
+    <AndroidResource Include="Resources\drawable\rain.png" />
+    <AndroidResource Include="Resources\drawable\raskvit.png" />
+    <AndroidResource Include="Resources\drawable\rusalka.png" />
+    <AndroidResource Include="Resources\drawable\sarochka.png" />
+    <AndroidResource Include="Resources\drawable\sarochka2.png" />
+    <AndroidResource Include="Resources\drawable\song.png" />
+    <AndroidResource Include="Resources\drawable\spadnica.png" />
+    <AndroidResource Include="Resources\drawable\sun.png" />
+    <AndroidResource Include="Resources\drawable\venok.png" />
+    <AndroidResource Include="Resources\drawable\yradgai.png" />
+    <AndroidResource Include="Resources\drawable\yryla.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\welcome.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\raw\welcome.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\arnament.mp3" />
+    <AndroidAsset Include="Assets\boty.mp3" />
+    <AndroidAsset Include="Assets\boy.mp3" />
+    <AndroidAsset Include="Assets\bryl.mp3" />
+    <AndroidAsset Include="Assets\busy.mp3" />
+    <AndroidAsset Include="Assets\completion.mp3" />
+    <AndroidAsset Include="Assets\hello.mp3" />
+    <AndroidAsset Include="Assets\lylka.mp3" />
+    <AndroidAsset Include="Assets\poys.mp3" />
+    <AndroidAsset Include="Assets\razvitane.mp3" />
+    <AndroidAsset Include="Assets\sarochka.mp3" />
+    <AndroidAsset Include="Assets\spadnica.mp3" />
+    <AndroidAsset Include="Assets\venok.mp3" />
+    <AndroidAsset Include="Assets\wardrobe.mp3" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D24062C6-7AEE-492E-8693-4080A1DD20AB}</ProjectGuid>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TemplateGuid>{c9e5eea5-ca05-42a1-839b-61506e0a37df}</TemplateGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Ethnic_Style_of_Belarus.Droid</RootNamespace>
+    <AssemblyName>Ethnic Style of Belarus.Android</AssemblyName>
+    <Deterministic>True</Deterministic>
+    <AndroidApplication>True</AndroidApplication>
+    <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
+    <AndroidResgenClass>Resource</AndroidResgenClass>
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
+    <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
+    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
+    <TargetFrameworkVersion>v13.0</TargetFrameworkVersion>
+    <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
+    <AndroidUseAapt2>true</AndroidUseAapt2>
+    <AndroidHttpClientHandlerType>Xamarin.Android.Net.AndroidClientHandler</AndroidHttpClientHandlerType>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>portable</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidLinkMode>None</AndroidLinkMode>
+    <EmbedAssembliesIntoApk>false</EmbedAssembliesIntoApk>
+    <AotAssemblies>false</AotAssemblies>
+    <EnableLLVM>false</EnableLLVM>
+    <AndroidEnableProfiledAot>false</AndroidEnableProfiledAot>
+    <BundleAssemblies>false</BundleAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>portable</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidManagedSymbols>true</AndroidManagedSymbols>
+    <EmbedAssembliesIntoApk>true</EmbedAssembliesIntoApk>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Mono.Android" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Xam.Plugin.SimpleAudioPlayer">
+      <Version>1.6.0</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MainActivity.cs" />
+    <Compile Include="Resources\Resource.designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Assets\AboutAssets.txt" />
+    <None Include="Properties\AndroidManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\values\styles.xml" />
+    <AndroidResource Include="Resources\values\colors.xml" />
+    <AndroidResource Include="Resources\mipmap-anydpi-v26\icon.xml" />
+    <AndroidResource Include="Resources\mipmap-anydpi-v26\icon_round.xml" />
+    <AndroidResource Include="Resources\mipmap-hdpi\icon.png" />
+    <AndroidResource Include="Resources\mipmap-hdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\mipmap-mdpi\icon.png" />
+    <AndroidResource Include="Resources\mipmap-mdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\mipmap-xhdpi\icon.png" />
+    <AndroidResource Include="Resources\mipmap-xhdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\mipmap-xxhdpi\icon.png" />
+    <AndroidResource Include="Resources\mipmap-xxhdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
+    <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Ethnic Style of Belarus\Ethnic Style of Belarus.csproj">
+      <Project>{1E1BA2F7-7ECE-4C70-8E90-A2A047EA0F83}</Project>
+      <Name>Ethnic Style of Belarus</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\anargi.png" />
+    <AndroidResource Include="Resources\drawable\baba.png" />
+    <AndroidResource Include="Resources\drawable\bagate.png" />
+    <AndroidResource Include="Resources\drawable\basket_full.png" />
+    <AndroidResource Include="Resources\drawable\boty.png" />
+    <AndroidResource Include="Resources\drawable\boy.png" />
+    <AndroidResource Include="Resources\drawable\bryl.png" />
+    <AndroidResource Include="Resources\drawable\busy.png" />
+    <AndroidResource Include="Resources\drawable\clear.png" />
+    <AndroidResource Include="Resources\drawable\dysha.png" />
+    <AndroidResource Include="Resources\drawable\family.png" />
+    <AndroidResource Include="Resources\drawable\fire.png" />
+    <AndroidResource Include="Resources\drawable\fon1.jpg" />
+    <AndroidResource Include="Resources\drawable\fon2.jpg" />
+    <AndroidResource Include="Resources\drawable\fon3.jpg" />
+    <AndroidResource Include="Resources\drawable\fon4.jpg" />
+    <AndroidResource Include="Resources\drawable\fon5.jpg" />
+    <AndroidResource Include="Resources\drawable\fon6.jpg" />
+    <AndroidResource Include="Resources\drawable\girl.png" />
+    <AndroidResource Include="Resources\drawable\ground.png" />
+    <AndroidResource Include="Resources\drawable\hleb.png" />
+    <AndroidResource Include="Resources\drawable\icon.png" />
+    <AndroidResource Include="Resources\drawable\kashuly1.png" />
+    <AndroidResource Include="Resources\drawable\kashuly10.png" />
+    <AndroidResource Include="Resources\drawable\kashuly2.png" />
+    <AndroidResource Include="Resources\drawable\kashuly3.png" />
+    <AndroidResource Include="Resources\drawable\kashuly4.png" />
+    <AndroidResource Include="Resources\drawable\kashuly5.png" />
+    <AndroidResource Include="Resources\drawable\kashuly6.png" />
+    <AndroidResource Include="Resources\drawable\kashuly7.png" />
+    <AndroidResource Include="Resources\drawable\kashuly8.png" />
+    <AndroidResource Include="Resources\drawable\kashuly9.png" />
+    <AndroidResource Include="Resources\drawable\life.png" />
+    <AndroidResource Include="Resources\drawable\love.png" />
+    <AndroidResource Include="Resources\drawable\loveb.png" />
+    <AndroidResource Include="Resources\drawable\lovep.png" />
+    <AndroidResource Include="Resources\drawable\lylka.png" />
+    <AndroidResource Include="Resources\drawable\maladost.png" />
+    <AndroidResource Include="Resources\drawable\nasanne.png" />
+    <AndroidResource Include="Resources\drawable\person.png" />
+    <AndroidResource Include="Resources\drawable\poys.png" />
+    <AndroidResource Include="Resources\drawable\praca.png" />
+    <AndroidResource Include="Resources\drawable\priroda.png" />
+    <AndroidResource Include="Resources\drawable\prodki.png" />
+    <AndroidResource Include="Resources\drawable\rain.png" />
+    <AndroidResource Include="Resources\drawable\raskvit.png" />
+    <AndroidResource Include="Resources\drawable\rusalka.png" />
+    <AndroidResource Include="Resources\drawable\sarochka.png" />
+    <AndroidResource Include="Resources\drawable\sarochka2.png" />
+    <AndroidResource Include="Resources\drawable\song.png" />
+    <AndroidResource Include="Resources\drawable\spadnica.png" />
+    <AndroidResource Include="Resources\drawable\sun.png" />
+    <AndroidResource Include="Resources\drawable\venok.png" />
+    <AndroidResource Include="Resources\drawable\yradgai.png" />
+    <AndroidResource Include="Resources\drawable\yryla.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\welcome.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\raw\welcome.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\arnament.mp3" />
+    <AndroidAsset Include="Assets\boty.mp3" />
+    <AndroidAsset Include="Assets\boy.mp3" />
+    <AndroidAsset Include="Assets\bryl.mp3" />
+    <AndroidAsset Include="Assets\busy.mp3" />
+    <AndroidAsset Include="Assets\completion.mp3" />
+    <AndroidAsset Include="Assets\hello.mp3" />
+    <AndroidAsset Include="Assets\lylka.mp3" />
+    <AndroidAsset Include="Assets\poys.mp3" />
+    <AndroidAsset Include="Assets\razvitane.mp3" />
+    <AndroidAsset Include="Assets\sarochka.mp3" />
+    <AndroidAsset Include="Assets\spadnica.mp3" />
+    <AndroidAsset Include="Assets\venok.mp3" />
+    <AndroidAsset Include="Assets\wardrobe.mp3" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+>>>>>>> 37abf8e8e7f9c27f247b99ff1c550c0cc33c9c6d
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D24062C6-7AEE-492E-8693-4080A1DD20AB}</ProjectGuid>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TemplateGuid>{c9e5eea5-ca05-42a1-839b-61506e0a37df}</TemplateGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Ethnic_Style_of_Belarus.Droid</RootNamespace>
+    <AssemblyName>Ethnic Style of Belarus.Android</AssemblyName>
+    <Deterministic>True</Deterministic>
+    <AndroidApplication>True</AndroidApplication>
+    <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
+    <AndroidResgenClass>Resource</AndroidResgenClass>
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
+    <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
+    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
+    <TargetFrameworkVersion>v13.0</TargetFrameworkVersion>
+    <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
+    <AndroidUseAapt2>true</AndroidUseAapt2>
+    <AndroidHttpClientHandlerType>Xamarin.Android.Net.AndroidClientHandler</AndroidHttpClientHandlerType>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>portable</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidLinkMode>None</AndroidLinkMode>
+    <EmbedAssembliesIntoApk>false</EmbedAssembliesIntoApk>
+    <AotAssemblies>false</AotAssemblies>
+    <EnableLLVM>false</EnableLLVM>
+    <AndroidEnableProfiledAot>false</AndroidEnableProfiledAot>
+    <BundleAssemblies>false</BundleAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>portable</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidManagedSymbols>true</AndroidManagedSymbols>
+    <EmbedAssembliesIntoApk>true</EmbedAssembliesIntoApk>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Mono.Android" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Xam.Plugin.SimpleAudioPlayer">
+      <Version>1.6.0</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MainActivity.cs" />
+    <Compile Include="Resources\Resource.designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Assets\AboutAssets.txt" />
+    <None Include="Properties\AndroidManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\values\styles.xml" />
+    <AndroidResource Include="Resources\values\colors.xml" />
+    <AndroidResource Include="Resources\mipmap-anydpi-v26\icon.xml" />
+    <AndroidResource Include="Resources\mipmap-anydpi-v26\icon_round.xml" />
+    <AndroidResource Include="Resources\mipmap-hdpi\icon.png" />
+    <AndroidResource Include="Resources\mipmap-hdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\mipmap-mdpi\icon.png" />
+    <AndroidResource Include="Resources\mipmap-mdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\mipmap-xhdpi\icon.png" />
+    <AndroidResource Include="Resources\mipmap-xhdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\mipmap-xxhdpi\icon.png" />
+    <AndroidResource Include="Resources\mipmap-xxhdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
+    <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Ethnic Style of Belarus\Ethnic Style of Belarus.csproj">
+      <Project>{1E1BA2F7-7ECE-4C70-8E90-A2A047EA0F83}</Project>
+      <Name>Ethnic Style of Belarus</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\anargi.png" />
+    <AndroidResource Include="Resources\drawable\baba.png" />
+    <AndroidResource Include="Resources\drawable\bagate.png" />
+    <AndroidResource Include="Resources\drawable\basket_full.png" />
+    <AndroidResource Include="Resources\drawable\boty.png" />
+    <AndroidResource Include="Resources\drawable\boy.png" />
+    <AndroidResource Include="Resources\drawable\bryl.png" />
+    <AndroidResource Include="Resources\drawable\busy.png" />
+    <AndroidResource Include="Resources\drawable\clear.png" />
+    <AndroidResource Include="Resources\drawable\dysha.png" />
+    <AndroidResource Include="Resources\drawable\family.png" />
+    <AndroidResource Include="Resources\drawable\fire.png" />
+    <AndroidResource Include="Resources\drawable\fon1.jpg" />
+    <AndroidResource Include="Resources\drawable\fon2.jpg" />
+    <AndroidResource Include="Resources\drawable\fon3.jpg" />
+    <AndroidResource Include="Resources\drawable\fon4.jpg" />
+    <AndroidResource Include="Resources\drawable\fon5.jpg" />
+    <AndroidResource Include="Resources\drawable\fon6.jpg" />
+    <AndroidResource Include="Resources\drawable\girl.png" />
+    <AndroidResource Include="Resources\drawable\ground.png" />
+    <AndroidResource Include="Resources\drawable\hleb.png" />
+    <AndroidResource Include="Resources\drawable\icon.png" />
+    <AndroidResource Include="Resources\drawable\kashuly1.png" />
+    <AndroidResource Include="Resources\drawable\kashuly10.png" />
+    <AndroidResource Include="Resources\drawable\kashuly2.png" />
+    <AndroidResource Include="Resources\drawable\kashuly3.png" />
+    <AndroidResource Include="Resources\drawable\kashuly4.png" />
+    <AndroidResource Include="Resources\drawable\kashuly5.png" />
+    <AndroidResource Include="Resources\drawable\kashuly6.png" />
+    <AndroidResource Include="Resources\drawable\kashuly7.png" />
+    <AndroidResource Include="Resources\drawable\kashuly8.png" />
+    <AndroidResource Include="Resources\drawable\kashuly9.png" />
+    <AndroidResource Include="Resources\drawable\life.png" />
+    <AndroidResource Include="Resources\drawable\love.png" />
+    <AndroidResource Include="Resources\drawable\loveb.png" />
+    <AndroidResource Include="Resources\drawable\lovep.png" />
+    <AndroidResource Include="Resources\drawable\lylka.png" />
+    <AndroidResource Include="Resources\drawable\maladost.png" />
+    <AndroidResource Include="Resources\drawable\nasanne.png" />
+    <AndroidResource Include="Resources\drawable\person.png" />
+    <AndroidResource Include="Resources\drawable\poys.png" />
+    <AndroidResource Include="Resources\drawable\praca.png" />
+    <AndroidResource Include="Resources\drawable\priroda.png" />
+    <AndroidResource Include="Resources\drawable\prodki.png" />
+    <AndroidResource Include="Resources\drawable\rain.png" />
+    <AndroidResource Include="Resources\drawable\raskvit.png" />
+    <AndroidResource Include="Resources\drawable\rusalka.png" />
+    <AndroidResource Include="Resources\drawable\sarochka.png" />
+    <AndroidResource Include="Resources\drawable\sarochka2.png" />
+    <AndroidResource Include="Resources\drawable\song.png" />
+    <AndroidResource Include="Resources\drawable\spadnica.png" />
+    <AndroidResource Include="Resources\drawable\sun.png" />
+    <AndroidResource Include="Resources\drawable\venok.png" />
+    <AndroidResource Include="Resources\drawable\yradgai.png" />
+    <AndroidResource Include="Resources\drawable\yryla.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\welcome.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\raw\welcome.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\arnament.mp3" />
+    <AndroidAsset Include="Assets\boty.mp3" />
+    <AndroidAsset Include="Assets\boy.mp3" />
+    <AndroidAsset Include="Assets\bryl.mp3" />
+    <AndroidAsset Include="Assets\busy.mp3" />
+    <AndroidAsset Include="Assets\completion.mp3" />
+    <AndroidAsset Include="Assets\hello.mp3" />
+    <AndroidAsset Include="Assets\lylka.mp3" />
+    <AndroidAsset Include="Assets\poys.mp3" />
+    <AndroidAsset Include="Assets\razvitane.mp3" />
+    <AndroidAsset Include="Assets\sarochka.mp3" />
+    <AndroidAsset Include="Assets\spadnica.mp3" />
+    <AndroidAsset Include="Assets\venok.mp3" />
+    <AndroidAsset Include="Assets\wardrobe.mp3" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+>>>>>>> 37abf8e8e7f9c27f247b99ff1c550c0cc33c9c6d
+</Project>
